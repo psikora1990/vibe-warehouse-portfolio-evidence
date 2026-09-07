@@ -1,0 +1,15 @@
+{
+  "artifact": "technology-tree-interactive-prototype",
+  "source_file": "TT_P4D3B4C9B_MacroLayoutProgressiveDisclosureIconPrototype_AB_20260824_085941.html",
+  "public_path": "tech-tree/latest/index.html",
+  "status": "PROTOTYPE",
+  "routing_visual_acceptance": "NOT_COMPLETE",
+  "known_visual_debt": [
+    "dependency routing / connector terminals",
+    "prototype icon presentation"
+  ],
+  "copyright": "© 2026 Przemysław Sikora. All rights reserved.",
+  "sha256": "f9614159d33d1f49d1f5bfa81cc2b218da076dd916b6af29de1a79aca966d301",
+  "external_dependencies": false,
+  "robots": "noindex,nofollow,noarchive"
+}
